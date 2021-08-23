@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karvin685
 - 👀 I’m interested in firewall structure.
 - 🌱 I’m currently learning html, javascript, and css.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Html.
 - 📫 How to reach me ...
 
 <!---
